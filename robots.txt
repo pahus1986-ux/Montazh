@@ -1,6 +1,4 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
-Disallow: /foto_new/
-Disallow: /foto_new2/
 
 Sitemap: https://pahus1986-ux.github.io/Montazh/sitemap.xml
